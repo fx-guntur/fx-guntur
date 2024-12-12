@@ -1,5 +1,5 @@
 # 💫 About Me:
-📚 I'm currently learning Mobile and Web Programming Language 📚
+📚 I'm currently learning Mobile and Web Programming Language! 📚
 
 
 ## 🌐 Socials:
