@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/fx.guntur)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fx-guntur/)
 
 # 📊 GitHub Stats:
